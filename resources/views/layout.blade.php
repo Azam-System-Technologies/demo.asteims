@@ -12,7 +12,7 @@
     <style type="text/css">
         @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
 
-        body{
+        body{ 
             margin: 0;
             font-size: .9rem;
             font-weight: 400;
