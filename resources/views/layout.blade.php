@@ -2,17 +2,13 @@
 <html>
 <head>
 
-    <title>Laravel - ItSolutionStuff.com</title>
-
-    <title>Laravel - Shahab Jamshed</title>
-
     <title>Laravel -demo.asteims.com/</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <style type="text/css">
         @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
 
-        body{ 
+        body{
             margin: 0;
             font-size: .9rem;
             font-weight: 400;

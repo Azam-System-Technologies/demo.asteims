@@ -2,10 +2,6 @@
 <html>
 <head>
 
-    <title>Laravel - ItSolutionStuff.com</title>
-
-    <title>Laravel - Shahab Jamshed</title>
-
     <title>Laravel -demo.asteims.com/</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
